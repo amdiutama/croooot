@@ -23,7 +23,7 @@ else:
     O = ''
     R = ''
 
-def banner()
+def banner():
 
 
 host = 'https://mbasic.facebook.com'
